@@ -1,0 +1,24 @@
+{
+  "name": "mattdanger/phalcon-table-sort",
+  "type": "library",
+  "description": "Phalcon HTML table sort component",
+  "keywords": ["phalcon","sort","php"],
+  "homepage": "https://github.com/mattdanger/phalcon-table-sort",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Matt West",
+      "email": "matt@mattdanger.net",
+      "homepage": "http://mattdanger.net",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "TableSort\\": "src/TableSort"
+    }
+  }
+}

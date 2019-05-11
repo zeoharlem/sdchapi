@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/m1ome/phalcon-datatables" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/mattdanger/phalcon-table-sort" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/mattdanger/volt-helpers" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phalcon-cron/src" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phalcon-ext/mailer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/swiftmailer/swiftmailer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="amfest" />
+    <orderEntry type="module" module-name="ibedc" />
+    <orderEntry type="module" module-name="duapiv1" />
+    <orderEntry type="module" module-name="crondu" />
+    <orderEntry type="module" module-name="gmanzofr" />
+  </component>
+</module>

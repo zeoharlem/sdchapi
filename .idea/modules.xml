@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../amfest/.idea/amfest.iml" filepath="$PROJECT_DIR$/../amfest/.idea/amfest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../crondu/.idea/crondu.iml" filepath="$PROJECT_DIR$/../crondu/.idea/crondu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../duapiv1/.idea/duapiv1.iml" filepath="$PROJECT_DIR$/../duapiv1/.idea/duapiv1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gmanzofr/.idea/gmanzofr.iml" filepath="$PROJECT_DIR$/../gmanzofr/.idea/gmanzofr.iml" />
+      <module fileurl="file://C:/wamp64/www/ibedc/.idea/ibedc.iml" filepath="C:/wamp64/www/ibedc/.idea/ibedc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sdchapi.iml" filepath="$PROJECT_DIR$/.idea/sdchapi.iml" />
+    </modules>
+  </component>
+</project>
